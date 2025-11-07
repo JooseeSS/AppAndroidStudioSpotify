@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">My Spotify</string>
+
+        <string name="enter_your_name">Enter your name</string>
+        <string name="start_adventure">Start Adventure</string>
+        <string name="spotify_premium_message">You are using Spotify Premium,\nas an IES Camas student you get it for $0 per month.</string>
+
+        <string name="welcome_user">Hello, %s!</string>
+        <string name="genre_question">Which music do you like more?</string>
+        <string name="reggaeton">Trap</string>
+        <string name="trap">Reggaeton</string>
+        <string name="reggaeton_activity_title">Reggaeton Room</string>
+        <string name="trap_activity_title">Trap Room</string>
+
+        <string name="back">Back</string>
+        <string name="play">Play</string>
+        <string name="pause">Pause</string>
+        <string name="stop">Stop</string>
+
+        <string name="reggaeton_song_1_title">Donde estan las gatas</string>
+        <string name="reggaeton_song_2_title">Travesuras</string>
+        <string name="trap_song_1_title">Sola(REMIX)</string>
+        <string name="trap_song_2_title">Problema</string>
+
+        <string name="reggaeton_1_release_date">Released: 07/13/2001</string>
+        <string name="reggaeton_2_release_date">Released: 06/21/2014</string>
+        <string name="trap_1_release_date">Released: 03/31/2017</string>
+        <string name="trap_2_release_date">Released: 10/09/2025</string>
+
+</resources>
